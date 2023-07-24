@@ -61,7 +61,7 @@ function App() {
           ))}
         </div>
       </div>
-      <a href="https://github.com/JoseLuisRiquelme/Likeme_node_db_express" target="_blank">Link to code</a>
+      <a href="https://github.com/JoseLuisRiquelme/Likeme_parte2_node_db_express" target="_blank">Link to code</a>
     </div>
   );
 }
